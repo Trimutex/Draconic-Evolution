@@ -33,6 +33,8 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import javax.annotation.Nullable;
 import java.util.List;
 
+import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
+
 /**
  * Created by brandon3055 on 18/01/2017.
  */

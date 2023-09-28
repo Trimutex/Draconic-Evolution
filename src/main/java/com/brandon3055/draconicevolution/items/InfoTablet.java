@@ -18,6 +18,8 @@ import net.minecraft.world.level.Level;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 22/09/2016.
  */

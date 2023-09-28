@@ -11,6 +11,8 @@ import net.minecraft.world.level.block.state.BlockState;
 
 import javax.annotation.Nullable;
 
+import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
+
 /**
  * Created by brandon3055 on 19/07/2016.
  */

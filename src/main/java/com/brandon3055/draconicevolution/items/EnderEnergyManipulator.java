@@ -26,6 +26,8 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import javax.annotation.Nullable;
 import java.util.List;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 9/05/2017.
  */

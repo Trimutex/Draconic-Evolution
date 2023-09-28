@@ -12,6 +12,8 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.function.Consumer;
 
+import codechicken.lib.config.ListRestriction.Failure;
+
 /**
  * Created by brandon3055 on 17/5/20.
  */

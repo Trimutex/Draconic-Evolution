@@ -52,6 +52,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 16/07/2016.
  */

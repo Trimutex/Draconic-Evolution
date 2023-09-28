@@ -43,6 +43,8 @@ import java.util.*;
 
 import static com.brandon3055.draconicevolution.DraconicEvolution.MODID;
 
+import VBORenderType;
+
 /**
  * Created by brandon3055 on 13/11/2022
  */

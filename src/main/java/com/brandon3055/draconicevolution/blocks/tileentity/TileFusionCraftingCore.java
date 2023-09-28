@@ -58,6 +58,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import com.brandon3055.draconicevolution.api.crafting.IFusionStateMachine.FusionState;
+
 /**
  * Created by brandon3055 on 11/06/2016.
  */

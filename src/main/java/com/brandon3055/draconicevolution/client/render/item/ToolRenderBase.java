@@ -29,6 +29,8 @@ import java.util.Locale;
 
 import static com.brandon3055.draconicevolution.DraconicEvolution.MODID;
 
+import VBORenderType;
+
 /**
  * Created by brandon3055 on 22/5/20.
  */

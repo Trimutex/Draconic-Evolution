@@ -25,6 +25,8 @@ import net.minecraftforge.api.distmarker.OnlyIn;
 import javax.annotation.Nullable;
 import java.util.Map;
 
+import com.brandon3055.draconicevolution.api.modules.lib.IDamageModifier.EffectType;
+
 /**
  * Created by brandon3055 on 11/4/21
  * This is a "special case" damage modifier that does not actually belong to any module.

@@ -16,6 +16,8 @@ import javax.annotation.Nullable;
 import java.util.List;
 import java.util.function.Supplier;
 
+import net.minecraft.world.item.Item.Properties;
+
 public class EnergyModuleItem extends ModuleItem<EnergyData> {
     public EnergyModuleItem(Properties properties, Supplier<Module<EnergyData>> moduleSupplier) {
         super(properties, moduleSupplier);

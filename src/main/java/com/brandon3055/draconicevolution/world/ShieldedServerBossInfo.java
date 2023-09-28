@@ -6,6 +6,9 @@ import net.minecraft.network.protocol.game.ClientboundBossEventPacket;
 import net.minecraft.server.level.ServerBossEvent;
 import net.minecraft.server.level.ServerPlayer;
 
+import net.minecraft.world.BossEvent.BossBarColor;
+import net.minecraft.world.BossEvent.BossBarOverlay;
+
 /**
  * Created by brandon3055 on 24/7/21
  */

@@ -10,6 +10,8 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.Rotation;
 import net.minecraft.world.level.block.state.BlockState;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 25/11/2016.
  */

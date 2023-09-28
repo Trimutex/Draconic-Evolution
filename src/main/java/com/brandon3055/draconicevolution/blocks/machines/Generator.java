@@ -15,6 +15,8 @@ import net.minecraft.world.level.block.state.properties.BlockStateProperties;
 import net.minecraft.world.level.block.state.properties.BooleanProperty;
 import net.minecraft.world.level.block.state.properties.DirectionProperty;
 
+import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
+
 /**
  * Created by Brandon on 23/07/2014.
  * Block for DE Generator

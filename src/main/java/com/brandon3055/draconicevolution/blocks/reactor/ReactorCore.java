@@ -25,6 +25,8 @@ import net.minecraft.world.phys.shapes.Shapes;
 import net.minecraft.world.phys.shapes.VoxelShape;
 import net.minecraftforge.network.NetworkHooks;
 
+import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
+
 /**
  * Created by brandon3055 on 6/11/2016.
  */

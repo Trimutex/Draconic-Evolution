@@ -9,6 +9,8 @@ import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.enchantment.Enchantment;
 import net.minecraft.world.item.enchantment.EnchantmentCategory;
 
+import net.minecraft.world.item.enchantment.Enchantment.Rarity;
+
 /**
  * Created by Brandon on 17/11/2014.
  */

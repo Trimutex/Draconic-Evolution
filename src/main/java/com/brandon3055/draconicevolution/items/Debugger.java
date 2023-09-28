@@ -20,6 +20,8 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 4/4/2016.
  */

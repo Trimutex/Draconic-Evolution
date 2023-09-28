@@ -9,6 +9,8 @@ import net.minecraft.world.level.block.state.BlockState;
 
 import java.util.Random;
 
+import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
+
 /**
  * Created by brandon3055 on 18/3/2016.
  */

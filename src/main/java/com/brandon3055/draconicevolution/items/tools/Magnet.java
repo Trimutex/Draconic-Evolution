@@ -25,6 +25,8 @@ import net.minecraftforge.event.entity.player.PlayerXpEvent;
 
 import java.util.List;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 9/3/2016.
  */

@@ -113,25 +113,27 @@ processResources {
 
 repositories {
     mavenLocal()
-    maven { url = "https://maven.covers1624.net/" }
-    maven { url = "https://dvs1.progwml6.com/files/maven" }
-    maven { url = "https://maven.cil.li/" }
+    maven { url = "https://maven.blamejared.com/" }
     maven { url = "https://maven.theillusivec4.top/" }
     maven { url = "https://squiddev.cc/maven/" }
-    maven { url = "https://maven.blamejared.com/" }
+    maven { url = "https://cursemaven.com/" }
+    //maven { url = "https://chickenbones.net/maven/" }
+    //maven { url = "https://maven.covers1624.net/" }
+    //maven { url = "https://dvs1.progwml6.com/files/maven" }
+    //maven { url = "https://maven.cil.li/" }
 }
 
 dependencies {
     minecraft "net.minecraftforge:forge:${config.mc_version}-${config.forge_version}"
 
-    implementation fg.deobf("com.brandon3055.brandonscore:BrandonsCore:${config.mc_version}-${config.bcore_version}:universal")
-    implementation fg.deobf("codechicken:CodeChickenLib:${config.mc_version}-${config.ccl_version}:universal")
-    implementation fg.deobf("codechicken:EnderStorage:${config.mc_version}-${config.ender_storage_version}:universal")
-    implementation fg.deobf("mezz.jei:jei-${config.mc_version}:${config.jei_version}:api")
-    runtimeOnly fg.deobf("mezz.jei:jei-${config.mc_version}:${config.jei_version}")
+    implementation fg.deobf("curse.maven:BrandonsCore-231382:4426917")
+    implementation fg.deobf("curse.maven:CodeChickenLib-242818:4382729")
+    implementation fg.deobf("curse.maven:EnderStorage-245174:3951059")
+    implementation fg.deobf("mezz.jei:jei-${config.mc_version}-forge-api:${config.jei_version}")
+    runtimeOnly fg.deobf("mezz.jei:jei-${config.mc_version}-forge:${config.jei_version}")
 
     implementation fg.deobf("top.theillusivec4.curios:curios-forge:${config.mc_version}-${config.curios_version}")
-    implementation fg.deobf("org.squiddev:cc-tweaked-${config.mc_version}:${config.cct_version}")
+    implementation fg.deobf("org.squiddev:cc-tweaked-${config.mc_version}:${config.cct_version}:api")
 
 
     compileOnly fg.deobf("com.blamejared.crafttweaker:CraftTweaker-forge-${config.mc_version}:${config.crt_version}")

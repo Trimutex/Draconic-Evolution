@@ -18,6 +18,9 @@ import javax.annotation.Nullable;
 import java.util.Arrays;
 import java.util.stream.Stream;
 
+import net.minecraft.world.item.crafting.Ingredient.ItemValue;
+import net.minecraft.world.item.crafting.Ingredient.Value;
+
 /**
  * Created by brandon3055 on 9/12/20
  */

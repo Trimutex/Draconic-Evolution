@@ -19,6 +19,8 @@ import net.minecraft.world.level.SpawnData;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraft.world.level.block.entity.SpawnerBlockEntity;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 2/06/2017.
  */

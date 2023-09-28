@@ -31,6 +31,8 @@ import net.minecraftforge.registries.ForgeRegistries;
 import javax.annotation.Nullable;
 import java.util.*;
 
+import net.minecraft.world.item.Item.Properties;
+
 /**
  * Created by brandon3055 on 25/09/2016.
  */

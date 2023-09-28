@@ -21,6 +21,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Consumer;
 
+import BaseComponent;
+
 /**
  * Created by brandon3055 and covers1624 on 4/16/20.
  */

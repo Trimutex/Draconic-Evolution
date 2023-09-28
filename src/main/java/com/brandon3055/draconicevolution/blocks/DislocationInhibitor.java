@@ -10,6 +10,8 @@ import net.minecraft.world.level.BlockGetter;
 import javax.annotation.Nullable;
 import java.util.List;
 
+import net.minecraft.world.level.block.state.BlockBehaviour.Properties;
+
 /**
  * Created by brandon3055 on 12/09/2017.
  */

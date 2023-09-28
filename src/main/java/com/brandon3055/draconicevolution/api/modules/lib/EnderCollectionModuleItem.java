@@ -27,6 +27,8 @@ import java.util.function.Supplier;
 
 import static com.brandon3055.draconicevolution.DraconicEvolution.MODID;
 
+import net.minecraft.world.item.Item.Properties;
+
 public class EnderCollectionModuleItem extends ModuleItem<NoData> {
     public EnderCollectionModuleItem(Properties properties, Supplier<Module<NoData>> moduleSupplier) {
         super(properties, moduleSupplier);
